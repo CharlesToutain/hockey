@@ -1,0 +1,40 @@
+enable: true
+title: Voici la gallerie du club.
+subtitle: Ici vous retrouvez les différentes photos de toutes les sections de l'Hockey USM Vire.
+
+portfolio:
+  - category: Sénior
+    url: "#"
+    image: "images/portfolio/equipe_senior1.jpg"
+    name: Photo d'un match sur gazon
+    description: >
+      blablabla baljofjzofzef
+  - category: Junior
+    url: "#"
+    image: "images/portfolio/equipe_junior1.jpg"
+    name: Photo equipe junior
+    description: >
+      blablablablabla
+  - category: Baby
+    url: "#"
+    image: "images/portfolio/work2.jpg"
+    name: Tesla Motors
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+  - category: Fauteuil
+    url: "#"
+    image: "images/portfolio/equipe_fauteuil1.jpg"
+    name: Photo equipe fauteuil
+    description: >
+      Photo équipe fauteuil
+  - category: Video
+    url: "#"
+    image: "images/portfolio/work4.jpg"
+    name: Tesla Motors
+    description: >
+      Labore et dolore magna aliqua. Ut enim ad
+clients:
+  - image: "https://res.cloudinary.com/ctinformatique/image/upload/c_thumb,e_grayscale,q_100,w_152/v1531213639/hockey/web_is_more.png"
+    url: "https://web-is-more.com/"
+  - image: "https://res.cloudinary.com/ctinformatique/image/upload/c_scale,e_grayscale,w_131/v1531213667/hockey/logo_vire.png"
+    url: "http://www.ville-vire.fr/"

@@ -1,0 +1,97 @@
+title = "Site de L'USM Vire Hockey sur gazon et salle."
+baseURL = "/"
+languageCode = "fr"
+theme = "airspace-hugo"
+
+[menu]
+
+  [[menu.header]]
+    weight = 2
+    name = "Gallerie"
+    url = "/work"
+  [[menu.header]]
+    weight = 3
+    name = "Actualités"
+    url = "/blog"
+  [[menu.header]]
+    weight = 4
+    name = "Informations"
+    url = "/service"
+  [[menu.header]]
+    weight = 5
+    name = "Contact"
+    url = "/contact"
+
+  [[menu.footer]]
+    weight = 1
+    name = "A propos"
+    url = "#"
+  [[menu.footer]]
+    weight = 2
+    name = "Nous contacter"
+    url = "/contact"
+  [[menu.footer]]
+    weight = 3
+    name = "Comment ça marche"
+    url = "/service"
+  [[menu.footer]]
+    weight = 4
+    name = "Actualités"
+    url = "/blog"
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+
+  home = "Acceuil"
+
+  [params.slider]
+    enable = true
+    title = "Site de l'USM Vire Hockey sur gazon, salle et fauteuil."
+    subtitle = "Situé à Vire en Basse-Normandie, découvrer notre sport olympique le hockey sur gazon et le hockey en salle.<br/>Suivez notre actualité, nous sommes aussi présent sur facebook."
+
+  [params.wrapper]
+    enable = true
+    title = "A propos"
+    italic = "L'USM VIRE Hockey sur gazon et en salle, est un club virois situé en Normandie. Appartenant à l'union sportive municipal, Viroise la section hockey est une des plus anciennes de Vire."
+    paragraph = "Créé dans les années 70 le club de hockey à d'abord était un club de hockey sur gazon puis à évolué dans le hockey en salle pour enfin en 2017 proposé du hockey fauteuil. Plus de 30 ans d'existance, dans les aonnées 90-2000 le club de hockey sur gazon à formé une équipe viroise au niveau national qui est un des plus hauts niveaux français. A savoir que le club évolue toujours au niveau national 3 en salle. "
+
+  [params.blog]
+    enable = true
+    title = "Ici toute l'actualité de l'USM Vire Hockey sur Gazon et Salle"
+    subtitle = "Vous pourrez suivre nos infos, matches."
+
+  [params.feature]
+    enable = true
+    title = "La licence féminine est à 50% de réduction !"
+    content = "Le club de hockey USM Vire à décidé depuis plusieurs année de proposer une réduction de 50% pour nous les Femmes. En effet le hockey sur gazon et en salle sont deux sports paritaires. Nous avons pour objectifs d’augmenter le nombre de licenciée féminines afin de pouvoir promouvoir notre sport et pourquoi pas créer notre équipe féminine !Pour toutes ces raisons nous avons décidés d’offrir de manière permanente 50% de réduction."
+    [params.feature.button]
+      caption = "Contactez-nous"
+      url = "/contact"
+
+  [params.call]
+    enable = true
+    title = "Un des seul club de sport, de Normandie à proposer une activité sportive tout au long de l’année."
+    paragraph = "Pendant la phase hivernal nous proposons le hockey en salle avec entraînements et compétitions et pendant la saison estival nous proposons le hockey sur gazon avec compétitions et entraînements. "
+
+  [params.contact]
+    enable = true
+    title = "Des questions ? Vous souhaitez nous rejoindre ?"
+    subtitle = "Vous êtes au bon endroit pour contacter, écrivez-nous"
+    [params.contact.form]
+      name = "Nom"
+      email = "Email"
+      subject = "Sujet"
+      message = "Message"
+      button = "Envoyer"
+    [params.contact.box]
+      title = "Passez nous voir"
+      address = "5 impasse Paul Cézanne 14500 Vire"
+      email = "Email: p.ecolivet@wanadoo.fr"
+      phone = "Phone: 06.82.18.40.54"
+    [params.contact.gmaps]
+      title = "Itinéraire terrain d'entrainement"

@@ -1,0 +1,48 @@
+enable: true
+title: Quelques infos
+subtitle: >
+  Découvrer ici toutes les infos utiles sur le fonctionnement du club ainsi que tous nos services.
+content:
+
+  - icon: ion-coffee
+    name: Pour qui ?
+    text: >
+      à partir de 4 ans jusqu'à pas d’aĝe. Pour garçons, filles et même handisport. 
+
+
+  - icon: ion-compass
+    name: Fonctionnement gazon 
+    text: >
+      De 3 ans à 16 ans, entraînements le mercredi de 14h à 17h et possibilité de match le samedi. 
+      De 16 ans à pas d’âge entraînement le vendredi de 19H15 à 21h, et possibilité de match le dimanche. 
+
+
+  - icon: ion-image
+    name: Fonctionnement salle
+    text: >
+      De 3 ans à 16 ans, entraînements le mercredi de 14h à 17H et possibilité de match le samedi à partir de 7 ans.
+      De 16 ans à pas d'âge entraînement le vendredi de 20h30 à 23H et possibilité de match le dimanche.
+
+  - icon: ion-bug
+    name: Equipements 
+    text: >
+      Les joueurs ont besoins de chaussettes, protèges tibiats, short pour les garçons et jupette pour les filles, une crosse de hockey, tee-shirt de sport et baskets. Le club propose tous l'équipements nécessaires pour un tarif avantageu.
+
+  - icon: ion-headphone
+    name: Prix
+    text: >
+      Baby hockey ( 3 à 5 ans ), licence loisir, hockey fauteuil 65€. U8/U12 (2006-2011) 80€. U14/U16 ( 2002 à 2005 ) 95€. Sénior ( 125 € ). Féminine  (adultes et enfants ) - 50% ! 
+  - icon: ion-leaf
+    name: Activités
+    text: >
+      Possibilité de stage mutlisport pour les jeunes de 8 à 16 ans pendant les vacances, avec pratique du hockey et de nombreuses activités ( laser game , course d'orientation.)
+
+  - icon: ion-planet
+    name: Pour les écoles
+    text: >
+      Nous proposons aussi le hockey dans les écoles primaires. Nous intervenons dans des écoles privées et publiques avec notre matériel mis à disposition et encadrement des jeunes.
+
+  - icon: ion-earth
+    name: Encadrant diplômé
+    text: >
+      Des éducateurs du club sont diplômés par la fédération de hockey dont un diplômé national et spécialisé dans l'handisport et gestes de premiers secours.
